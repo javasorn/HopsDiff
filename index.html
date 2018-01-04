@@ -7,7 +7,7 @@
     <title>Easy Hops Comparison</title>
 
 	<meta name="author" content="javasorn" />
-	<meta name="description" content="" />
+	<meta name="description" content="Hops Comparison,Hops list, Hops database, Homebrew, beer home brew" />
 
 <!-- you should always add your stylesheet (css) in the head tag so that it starts loading before the page html is being displayed -->
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" type="text/css" />
@@ -18,7 +18,7 @@
 		$(document).ready(function() {
 
 			$('#example').DataTable( {
-				"ajax": 'ajax/data/hopsdata.txt',
+				"ajax": 'ajax/data/hopsdata.json',
 				"pageLength": 50
 			} );
 			var table = $('#example').DataTable();
@@ -41,7 +41,7 @@
 
 	<div id="page">
 		<div id="logo">
-			<h1><a href="/" id="logoLink">Easy Hops Comparison</a></h1>
+			<h1><a href="" id="logoLink">Easy Hops Comparison</a></h1>
 		</div>
 		<div id="content">
 			<button id="btn-compare" class="btn btn-compare btn-primary" data-text-on="End Compare" data-text-off="Compare Selected">Compare Selected</button>
@@ -72,7 +72,7 @@
 		</div>
 		<div id="footer">
 			<p>
-				Webpage made by <a href="#" target="_blank">[javasorn]</a>
+				Webpage made by <a href="https://github.com/javasorn/" target="_blank">[javasorn]</a>
 			</p>
 		</div>
 	</div>
