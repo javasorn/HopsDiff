@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- your webpage info goes here -->
+
+    <title>Website</title>
+
+	<meta name="author" content="javasorn" />
+	<meta name="description" content="" />
+
+<!-- you should always add your stylesheet (css) in the head tag so that it starts loading before the page html is being displayed -->
+	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" type="text/css" />
+
+	<script type="text/javascript" language="javascript" src="//code.jquery.com/jquery-1.12.4.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" language="javascript">
+		$(document).ready(function() {
+
+			$('#example').DataTable( {
+				"ajax": 'ajax/data/hopsdata.txt'
+			} );
+			var table = $('#example').DataTable();
+			$('#example tbody').on( 'click', 'tr', function () {
+        		$(this).toggleClass('selected');
+    		} );
+
+			$('#btn-compare').click(function () {
+				table.rows().every( function ( rowIdx, tableLoop, rowLoop ) {
+					table.row(':not(.selected)').remove().draw(false);
+				} );
+			});
+
+		} );
+	</script>
+</head>
+<body>
+
+<!-- webpage content goes here in the body -->
+
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Test Datatables</a></h1>
+		</div>
+		<div id="content">
+			<button id="btn-compare" class="btn btn-compare btn-primary" data-text-on="End Compare" data-text-off="Compare Selected">Compare Selected</button>
+			<table id="example" class="display" cellspacing="0" width="100%">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Position</th>
+						<th>Office</th>
+						<th>Extn.</th>
+						<th>Start date</th>
+						<th>Salary</th>
+					</tr>
+				</thead>
+				<tfoot>
+					<tr>
+						<th>Name</th>
+						<th>Position</th>
+						<th>Office</th>
+						<th>Extn.</th>
+						<th>Start date</th>
+						<th>Salary</th>
+					</tr>
+				</tfoot>
+			</table>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="#" target="_blank">[javasorn]</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

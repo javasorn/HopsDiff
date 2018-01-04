@@ -1,0 +1,625 @@
+{
+  "data": [
+    [
+      "Admiral",
+      "UK",
+      "13%-16.2%",
+      "Bitter",
+      "Aggressive but smooth bittering with an orange-citrus and herbal resonance",
+      "Extra Special Bitter, American India Pale Ale, Belgian India Pale Ale, Imperial India Pale Ale, India Pale Ale, Pale Ale, Bitter",
+      "Chinook, Northdown, Challenger, Centennial, Cascade (US), Amarillo, Target"
+    ],
+    [
+      "Agnus",
+      "Czech Republic",
+      "9%-14%",
+      "Bitter",
+      "Strong spicy and herbal",
+      "Czech Pilsner, German Lager, Pale Ale",
+      ""
+    ],
+    [
+      "Apollo",
+      "US",
+      "15%-20%",
+      "Bitter",
+      "Sharp, clean bittering, grapefruit",
+      "India Pale Ale, Imperial India Pale Ale, Experimental Beers",
+      "Nugget, Columbus, Zeus, Magnum, Millennium"
+    ],
+    [
+      "Ahtanum",
+      "US",
+      "5.7-6.3%",
+      "Aroma",
+      "itrus and floral character, with grapefruit qualities said to be stronger than in Cascade.Ahtanum may also feature resiny or earth notes.",
+      "Lager, American Ales",
+      "Cascade, Amarillo"
+    ],
+    [
+      "Amarillo",
+      "US",
+      "8-11%",
+      "Aroma",
+      "Floral, grapefruit, citrus, peach.",
+      "Ale, IPA",
+      "Cascade, Centennial"
+    ],
+    [
+      "Ahil",
+      "US",
+      "10%-12%",
+      "Aroma",
+      "",
+      "Belgian Ale",
+      ""
+    ],
+    [
+      "Alliance",
+      "UK",
+      "4.6%-7.5%",
+      "Bittering & Aroma",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Amallia",
+      "US",
+      "5.5%-9%",
+      "Bittering & Aroma",
+      "Deep earthy aroma",
+      "Brown Ale, Dark Ale",
+      ""
+    ],
+    [
+      "Apolon",
+      "Slovenia",
+      "10%-12%",
+      "Bittering & Aroma",
+      "",
+      "Bitter, India Pale Ale",
+      ""
+    ],
+    [
+      "Banner",
+      "US",
+      "8.4%-13%",
+      "Bitter",
+      "Moderate bittering potential, pleasant aroma",
+      "Bitter",
+      "Aquila, Cluster, Galena"
+    ],
+    [
+      "Amethyst",
+      "Czech Republic",
+      "2%-6%",
+      "Aroma",
+      "Notably earthy, citrusy and spicy",
+      "Pale Ale, Lager",
+      ""
+    ],
+    [
+      "Aurora",
+      "Slovenia",
+      "7%-12%",
+      "Bittering & Aroma",
+      "Spicy",
+      "American Pale Ale, Dark Lager",
+      "Styrian Golding, Northern Brewer"
+    ],
+    [
+      "Bitter Gold",
+      "US",
+      "15.4%-18.8%",
+      "Bitter",
+      "Use for bittering only, has no notable aroma",
+      "Ale, Lager, Pilsner, Bitter, India Pale Ale",
+      "Galena, Nugget"
+    ],
+    [
+      "Aquila",
+      "US",
+      "6.7%-8.9%",
+      "Aroma",
+      "",
+      "Belgian Farmhouse Ale",
+      "Cluster, Galena"
+    ],
+    [
+      "Azacca",
+      "US",
+      "14%-16%",
+      "Bittering & Aroma",
+      "Aromas of tropical fruits and citrus. Tasting notes of spicy mango, pineapple, tangerine and pine.",
+      "India Pale Ale",
+      ""
+    ],
+    [
+      "Bravo",
+      "US",
+      "14%-17%",
+      "Bitter",
+      "Spicy, earthy, and lightly floral aroma",
+      "India Pale Ale, American Pale Ale, Extra Special Bitter, IPA",
+      "Columbus, Zeus, Apollo, Magnum, Nugget"
+    ],
+    [
+      "Aramis",
+      "France",
+      "7.9%-8.3%",
+      "Aroma",
+      "Sweet with notes of spice, citrus and herbs",
+      "Pilsner, Lager, Wheat, Saison, India Pale Ale, Belgian Ales, Pale Ale, Porter",
+      "Willamette, Challenger, Ahtanum™, Strisselspalter, Centennial, Chinook, Hallertau, Tettnang"
+    ],
+    [
+      "Brewer’s Gold",
+      "UK",
+      "7.1%-11.3%",
+      "Bitter",
+      "spice and blackcurrant",
+      "Ale, American Pale Ale, Bitter, Barley Wine, Imperial Stout",
+      "Bullion, Cascade, Galena, Northern Brewer (US), Northdown"
+    ],
+    [
+      "Atlas",
+      "Slovenia",
+      "9%-11%",
+      "Aroma",
+      "Intense notes of lime, blossom, and pine",
+      "American Pale Ale, Belgian Ale",
+      ""
+    ],
+    [
+      "Belma",
+      "US",
+      "9.4%-12.1%",
+      "Bittering & Aroma",
+      "Orange, melon, strawberry, pineapple with a hint of grapefruit",
+      "Pale Ale, Blonde, IPA",
+      ""
+    ],
+    [
+      "Brewer’s Gold (US)",
+      "US",
+      "8.1%-13.1%",
+      "Bitter",
+      "",
+      "India Pale Ale",
+      "Bullion, Cascade, Galena, Northern Brewer, Northdown"
+    ],
+    [
+      "Backa",
+      "Serbia",
+      "3.1%-6.9%",
+      "Aroma",
+      "",
+      "Lager, Pilsner",
+      ""
+    ],
+    [
+      "Blue Northern Brewer",
+      "Belgium",
+      "6%-8%",
+      "Bittering & Aroma",
+      "",
+      "India Pale Ale",
+      "Chinook"
+    ],
+    [
+      "Brooklyn",
+      "New  Zealand",
+      "17.8%",
+      "Bittering & Aroma",
+      "A high alpha hop with distinctive tropical, grapefruit and passion fruit ",
+      "IPA",
+      ""
+    ],
+    [
+      "Cascade (New Zealand)",
+      "New Zealand",
+      "6%-8%",
+      "Bittering & Aroma",
+      "Floral, with elements of citrus and notes of grapefruit",
+      "Barley Wine, American Pale Ale, Imperial Stout, Ale, Lager",
+      "Hallertau, Goldings, Ahtanum, Centennial"
+    ],
+    [
+      "Cascade (US)",
+      "US",
+      "4.5%-8.9%",
+      "Bittering & Aroma",
+      "Floral, with elements of citrus and notes of grapefruit",
+      "Barley Wine, American Pale Ale, Ale, Lager",
+      "Centennial, Amarillo, Columbus, Ahtanum"
+    ],
+    [
+      "Cascade (Australia)",
+      "Australia",
+      "5%-7%",
+      "Aroma",
+      "Same as Cascade (US) but with notes of grapefruit",
+      "Barley Wine, American Pale Ale, Australian Lager",
+      "Hallertau, Goldings"
+    ],
+    [
+      "Cascade (Argentina)",
+      "Argentina",
+      "3.2%",
+      "Aroma",
+      "Lemongrass, pepper and spice",
+      "Barley Wine, American Pale Ale, Kolsch, Cream Ale, Wheat, Blonde",
+      "Hallertau, Tettnang, East Kent Golding"
+    ],
+    [
+      "Centennial",
+      "US",
+      "9.5%-11.5%",
+      "Bittering & Aroma",
+      "Earthy and floral with an element of citrus",
+      "Extra Special Bitter, Barley Wine, Imperial Stout, India Pale Ale, Pale Ale",
+      "Chinook, Galena, Nugget, Zeus, Columbus, Cascade (US)"
+    ],
+    [
+      "Challenger",
+      "UK",
+      "6.5%-9%",
+      "Bittering & Aroma",
+      " features decent bitterness and a floral aroma and as such are considered fine for bittering or for dry hopping. Its flavor is smooth with balanced floral characteristics, some citrus and a dash of spice.",
+      "Golden Ale, Barley Wine, Imperial Stout",
+      "Perle (US), Northern Brewer, Admiral"
+    ],
+    [
+      "Chinook",
+      "",
+      "12%-14%",
+      "Bittering & Aroma",
+      "Bouquet of pine and spice",
+      "Winter Ale, Pale Ale, India Pale Ale, Porter, Stout, Lager, Barley Wine, American Lager, American Ale",
+      "Galena, Eroica, Nugget, Bullion, Columbus, Northern Brewer, Target"
+    ],
+    [
+      "Citra",
+      "US",
+      "10%-15%",
+      "Bittering & Aroma",
+      "Citrus, grapefruit, lime, tropical fruits, harsh bitterness",
+      "India Pale Ale, American Ales, Amber",
+      "Simcoe, Cascade (US), Centennial, Mosaic"
+    ],
+    [
+      "Cluster (AUS)",
+      "Australia",
+      "5.5%-8.5%",
+      "Bittering & Aroma",
+      "Strongly resinous, herbal character",
+      "Lager, Stout, Ale",
+      "Northern Brewer, Galena"
+    ],
+    [
+      "Columbus",
+      "US",
+      "14%-18%",
+      "Bittering & Aroma",
+      "A punchy hoppiness and deep, pensive aroma with understated citrus notes—perfect as a dual use hop. Commonly used late in the boil and, when fresh, Columbus has a herbal flavor with a lemon citrus back note. Usable in a number of styles, notably American-style ales.",
+      "Imperial Brown Ale, Barley Wine, Imperial Stout, American Ales, Stout",
+      "Zeus, Chinook, Northern Brewer, Nugget, Target, Warrior®, Millenium, Bullion"
+    ],
+    [
+      "Crystal",
+      "US",
+      "2.8%-4.4%",
+      "Aroma",
+      "Woody, floral and fruity with spice notes of cinnamon, nutmeg and black pepper",
+      "Bitter, Pilsner, Light Lager, Golden Ale, Nut Brown Ale, Pale Ale, India Pale Ale, Stout, Chocolate Stout, American Lager",
+      "Liberty, Mount Hood, German Hallertau, Ultra, Strisselspalter, Hersbrucker"
+    ],
+    [
+      "Dr Rudi",
+      "New Zealand",
+      "10%-12%",
+      "Bittering & Aroma",
+      "Grass, pine and citrus flavors",
+      "Lager, India Pale Ale",
+      "Green Bullet"
+    ],
+    [
+      "East Kent Golding",
+      "UK",
+      "5%-6%",
+      "Aroma",
+      "Aromas of lavender, spice, honey, thyme, earthy flavors",
+      "Pale Ale, Extra Special English Ale, English Dark Ale, English Light Ale, Belgian Ale, Christmas Ale",
+      "Whitbread Golding, Progress, Fuggle, First Gold"
+    ],
+    [
+      "El Dorado",
+      "US",
+      "13%-17%",
+      "Bittering & Aroma",
+      "Flavors of tropical fruit, pineapple, mango. Aromas of pear, watermelon, stone fruit and candy.",
+      "Wheat, India Pale Ale",
+      "Galena, Simcoe"
+    ],
+    [
+      "Ella",
+      "Australia",
+      "13.3%-16.3%",
+      "Aroma",
+      "Tropical flavors, grapefruit, star anise",
+      "Lager, Pilsner, Pale Ale, Stout",
+      ""
+    ],
+    [
+      "Equinox",
+      "US",
+      "14.5%-15.5%",
+      "Aroma",
+      "Notes of lemon and lime citrus, fruits like papaya and apple, green peppers and herbs",
+      "IPA, American Ale, Pilsner",
+      ""
+    ],
+    [
+      "Falconer’s Flight",
+      "US",
+      "9.5%-12%",
+      "Bittering & Aroma",
+      "Distinct tropical, floral, lemon and grapefruit attributes",
+      "India Pale Ale, Pale Ale, Lager",
+      "Cascade, Columbus, Centennial"
+    ],
+    [
+      "Fuggles",
+      "UK",
+      "5%",
+      "Aroma",
+      "Mild, pleasant, hoppy, and robust.",
+      "All English-style ales, ESB, bitter, lager",
+      "Styrian Golding, U.S. Fuggle, Willamette"
+    ],
+    [
+      "Galaxy",
+      "Australia",
+      "11%-16%",
+      "Bittering & Aroma",
+      "Citrus, peach and passionfruit aromas",
+      "Pale Ale, India Pale Ale, ESB",
+      "Citra®, Amarillo®, Centennial"
+    ],
+    [
+      "Galena",
+      "US",
+      "12%",
+      "Aroma",
+      "Fruity aroma",
+      "Imperial Stout, Stout, India Pale Ale, Barley Wine",
+      "Nugget, Columbus, Zeus, Chinook, Pride of Ringwood, Eroica, Newport, Cluster, Brewers Gold"
+    ],
+    [
+      "Green Bullet",
+      "New Zealand",
+      "11%-15%",
+      "Bittering & Aroma",
+      "Aromas of raisin and fruit",
+      "Bock, Saison, India Pale Ale",
+      "Liberty, Hallertauer, Crystal, Mount Hood, Ultra"
+    ],
+    [
+      "Hallertauer Tradition",
+      "Germany",
+      "4.6%-7%",
+      "Aroma",
+      "Earthy, grassy, aromas of nectar fruits",
+      "American Lager",
+      ""
+    ],
+    [
+      "Hallertau Gold",
+      "Germany",
+      "7%-10%",
+      "Aroma",
+      "Pleasing continental aroma",
+      "American Lager",
+      "Hallertauer Mittelfrüh, Tettnanger, East Kent Golding, Crystal, Mount Hood"
+    ],
+    [
+      "Hallertau",
+      "Germany",
+      "3.5%-3.5%",
+      "Aroma",
+      "Lightly flowery and spicy aroma",
+      "German Pilsner, Pale Ale, Wheat, American Lager",
+      "Liberty, Hallertau (US), Hallertauer Tradition"
+    ],
+    [
+      "Hallertau (US)",
+      "US",
+      "3.5%-5.5%",
+      "Aroma",
+      "Flowery, delicately spicy",
+      "Lager, Pilsner, Bock, Wheat Beer, Kölsch, Munich Helles, Belgian Ale, American Lager",
+      "Mount Hood, Liberty, Crystal, Hallertauer Mittelfrüh, Hallertauer Tradition, Ultra"
+    ],
+    [
+      "Hallertau Blanc",
+      "Germany",
+      "9%-12%",
+      "Aroma",
+      "Flavors of white-wine and fruit, aromas of cassis, elderflower, grapes, grapefruit and lemongrass.",
+      "",
+      "Nelson Sauvin"
+    ],
+    [
+      "Hallertauer Taurus",
+      "Germany",
+      "12.3%-17.9%",
+      "Bittering & Aroma",
+      "Chocolate, banana, spice, pepper, curry",
+      "Schwarzbier, Oktoberfest",
+      "Hallertauer Magnum, Merkur, Hercules"
+    ],
+    [
+      "Jarrylo USA",
+      "US",
+      "15-17%",
+      "Bittering & Aroma",
+      "Pear, orange, spicy, fruity",
+      "pale ales and IPA",
+      ""
+    ],
+    [
+      "Jester",
+      "UK",
+      "7%-9%",
+      "Aroma",
+      "Tropical fruit, grapefruit, blackcurrant, hints of lychee",
+      "Pale Ale, IPA",
+      "Cascade, Challenger"
+    ],
+    [
+      "Lemon Drop",
+      "US",
+      "5.2%",
+      "Aroma",
+      "Equipped with the elusive true-lemon character, Lemondrop boasts fantastic lemony-citrus aroma for late kettle additions or dry hopping. ",
+      "IPAs, Pale Ales and Saisons.",
+      ""
+    ],
+    [
+      "Magnum (US)",
+      "US",
+      "10%-14%",
+      "Bittering",
+      "Clean bittering, light citrus flavor",
+      "American Pale Ale, American India Pale Ale, Strong Ale, American Lager",
+      "German Magnum, Horizon, Northdown, Northern Brewer"
+    ],
+    [
+      "Mandarina Bavaria",
+      "Germany",
+      "8.5%-10.5%",
+      "Aroma",
+      "Tangerine, Citrus",
+      "Belgian Ale, French Ale",
+      "Columbus, Nugget, Cascade (US)"
+    ],
+    [
+      "Melba",
+      "Australia",
+      "7%-10%",
+      "Bittering & Aroma",
+      "Clean spicy bitterness, aromas of passionfruit, grapefruit and citrus.",
+      "New World APA and IPA, Australian Ale, American Pale Ale,American IPA/DIPA, Amber Ale.",
+      "Galaxy"
+    ],
+    [
+      "Mosaic",
+      "US",
+      "11.5%-13.5%",
+      "Bittering & Aroma",
+      "Earth, herbal, mint, bubblegum, blueberry, lime peel, black pepper - the character seems to change depending upon the conditions it is in.",
+      "IPA",
+      "Citra"
+    ],
+    [
+      "Motueka",
+      "New Zealand",
+      "6.5%-8.5%",
+      "Bittering & Aroma",
+      "Tropical fruit and citrus",
+      "European Ale, English Ale, Dark Lager, Pilsner, Belgian Ales, Lager, Maibock, Ales",
+      "Saaz, Saaz (US), Sterling"
+    ],
+    [
+      "Mount Hood",
+      "US",
+      "4%-8%",
+      "Aroma",
+      "Noble hop aroma",
+      "Hefeweizen, Doppelbock, Russian Imperial Stout, Brown Ale, Golden Ale, Pale Ale, Amber Ale, Weizenbock, India Pale Ale, Holiday Lager, Bock, American Wheat, Alt Munich Helles, American Lager",
+      "Crystal, Strisselspalter, Hersbrucker"
+    ],
+    [
+      "Nelson Sauvin",
+      "New Zealand",
+      "12%-13%",
+      "Bittering & Aroma",
+      "Smooth bittering, rich, fruity, gooseberry and white-wine flavors",
+      "American Pale Ale, India Pale Ale, Pale Ale",
+      "Pacific Jade, Pacifica"
+    ],
+    [
+      "Northern Brewer (GR)",
+      "Germany",
+      "7%-10%",
+      "Bittering",
+      "Medium-strong with some wild tones.",
+      "ESB, bitter, English pale ale, porter",
+      "Perle, Northern Brewer (US)"
+    ],
+    [
+      "Nugget",
+      "US",
+      "9.5%-14%",
+      "Bittering & Aroma",
+      "Solid bittering, light flavor, herbal aroma",
+      "India Pale Ale, Imperial India Pale Ale",
+      "Galena"
+    ],
+    [
+      "Orbit",
+      "New Zealand",
+      "4%-6%",
+      "Bittering & Aroma",
+      "Aroma Hop with a sweet tropical fruit aroma",
+      "IPA and Pale Ale",
+      ""
+    ],
+    [
+      "Pacific Gem",
+      "New Zealand",
+      "13%-16%",
+      "Bittering & Aroma",
+      "Notes of oak and blackberry",
+      "Strong Ale, European Lagers",
+      "Fuggle"
+    ],
+    [
+      "Pekko",
+      "US",
+      "16%",
+      "Bittering & Aroma",
+      "clean; floral; melon; pineapple; pears; saaz-like cucumber; mint; herbal; sage; touch of lemon",
+      "IPA / Pale Ales",
+      ""
+    ],
+    [
+      "Perle",
+      "Germany",
+      "8%-9%",
+      "Bittering & Aroma",
+      "Known for its aromatic and bittering properties, pleasant and slightly spicy.",
+      "Pale ale, porter, German styles, Pilsner, Kolsch,Dunkle",
+      "Perle (US), Northern Brewer (GR)"
+    ],
+    [
+      "Pride of Ringwood",
+      "Australia",
+      "7%-11%",
+      "Bittering",
+      "Spicy, fruity aroma",
+      "Amber Ale, Lager, Fruit Lambic, Pale Ale, Australian Lager, Strong Ale, Golden Ale, American Pale Ale",
+      "East Kent Goldings, Centennial, Galena, Cluster"
+    ],
+    [
+      "Name",
+      "US",
+      "PERCENT",
+      "TYPE",
+      "NOTES",
+      "USED",
+      "SUB"
+    ]
+  ]
+}
