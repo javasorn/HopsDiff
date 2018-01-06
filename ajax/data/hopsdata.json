@@ -613,13 +613,222 @@
       "East Kent Goldings, Centennial, Galena, Cluster"
     ],
     [
-      "Name",
+      "Progress",
+      "UK",
+      "6%-7.5%",
+      "Aroma",
+      "Sweet flavor, Fuggle-like aromas of grass, mint and earth. Subtle bitterness.",
+      "English Bitters, Pale Ale, Porter, Stout, Czech Pilsner, Bock, Cask Ale, Wheat",
+      "East Kent Golding, Fuggle"
+    ],
+    [
+      "Rakua",
+      "New Zealand",
+      "10.7 %",
+      "Bittering & Aroma",
+      "Grassy and spicy upfront, with some peach and tangerine in the finish.",
+      "Pale Ale, IPA, DIPA",
+      "Amarillo, Summit"
+    ],
+    [
+      "Saphir",
+      "Germany",
+      "2%-4.5%",
+      "Aroma",
+      "Sweet citrus aromas with hints of tangerine",
+      "Pilsner, Lager",
+      "Hallertau, Hallertau Tradition, Spalter Select"
+    ],
+    [
+      "Saaz",
+      "Czech Republic",
+      "2.5%-4.5%",
+      "Aroma",
+      "Noble, herbal character",
+      "Lager, Pilsner",
+      "Saaz (US), Sterling, Lubelska-Pulawy, Moteuka, Centennial, Amarillo®"
+    ],
+    [
+      "Saaz",
       "US",
-      "PERCENT",
-      "TYPE",
-      "NOTES",
-      "USED",
-      "SUB"
+      "3%-4.5%",
+      "Aroma",
+      "Mild, earthy, spicy, herbal",
+      "Lager, Pilsner",
+      "Saaz, Hallertau, Tettnanger, Lubelska, Sterling"
+    ],
+    [
+      "Simcoe",
+      "US",
+      "12%-14%",
+      "Bittering & Aroma",
+      "Bright citrus flavors with earthy undertones, aromas of grapefruit, pine and herbs",
+      "Double India Pale Ale, India Pale Ale, Pale Ale",
+      "Summit"
+    ],
+    [
+      "Sorachi Ace",
+      "Japan",
+      "11.5%-16%",
+      "Bittering & Aroma",
+      "Flavors of lemon citrus, orange, dill, cilantro",
+      "Lager, Pilsner, Saison",
+      ""
+    ],
+    [
+      "Sorachi Ace",
+      "US",
+      "12%-14.1%",
+      "Bittering",
+      "Lemon, Dill, White Flowers",
+      "IPAs, saisons, Pale Ale, and wheat beers",
+      ""
+    ],
+    [
+      "Southern Cross",
+      "New Zealand",
+      "13%-14%",
+      "Bittering & Aroma",
+      "Soft bitterness, lemon zest and pine needles",
+      "Pale Ale, India Pale Ale, Lager",
+      ""
+    ],
+    [
+      "Sticklebract",
+      "New Zealand",
+      "13%-14.2%",
+      "Bittering & Aroma",
+      "Aromas of pine and citrus",
+      "Extra Special Bitter",
+      "Northern Brewer (GR)"
+    ],
+    [
+      "Styrian Golding",
+      "Austria and Slovenia",
+      "2.8%-6%",
+      "Aroma",
+      "Resinous and earthy with hints of white pepper",
+      "Extra Special Bitter, Ale, Lager, Belgian Ale",
+      "Fuggle, Willamette, Bobek"
+    ],
+    [
+      "Summer",
+      "Australia",
+      "5.6%-6.4%",
+      "Aroma",
+      "Subtle flavors of apricot, melon, peach and grass",
+      "Ale, Wheat, Belgian Ale, American Ale, India Pale Pale",
+      "Saaz"
+    ],
+    [
+      "Summit",
+      "US",
+      "16%-18%",
+      "Bittering",
+      "Citrus aromas",
+      "India Pale Ale, Barley Wine, Imperial Stout",
+      "Columbus, Simcoe®, Apollo"
+    ],
+    [
+      "Tardif de Bourgogne",
+      "France",
+      "3.1%-5.5%",
+      "Aroma",
+      "Mild, European-style aroma",
+      "Ale, Lager",
+      "Precoce de Burgnogne"
+    ],
+    [
+      "Target",
+      "UK",
+      "8%-12.5%",
+      "Bittering & Aroma",
+      "",
+      "Bitter, Pale Ale, Kentish Bitter, India Pale Ale, Brown Ale, American Lager",
+      "Fuggle, Willamette"
+    ],
+    [
+      "Tettnanger",
+      "Germany",
+      "3%-5.8%",
+      "Bittering & Aroma",
+      "Balanced floral and herbal aromas with some spiciness",
+      "Bitter, California Blonde Ale, Red Ale, Pilsner, Lager, American Amber Ale, Winter Ale, Pale Ale, Wheat Beer, Bavarian Hefeweizen, Cream Ale, American Lager",
+      "Saaz, Spalt, Santiam, Spalter Select, Tettnanger (US)"
+    ],
+    [
+      "Tomahawk",
+      "US",
+      "14%–18%",
+      "Bittering & Aroma",
+      "Specific aroma descriptors include pungent, black pepper, licorice, curry and subtle citrus.",
+      "India pale ale, Pale ale, Stout",
+      "Chinook, Nugget, Zeus"
+    ],
+    [
+      "Vic Secret",
+      "Australia",
+      "14%-17%",
+      "Bittering & Aroma",
+      "Tropical fruit, pine, herbs",
+      "Pale Ale, India Pale Ale, Stout, Porter",
+      "Galaxy"
+    ]
+    ,
+    [
+      "Wai-iti",
+      "New Zealand",
+      "2.5%-3.5%",
+      "Aroma",
+      "Lime citrus and stone fruit notes",
+      "Pale Ale, India Pale Ale, Wheat Beer",
+      "Riwaka"
+    ]
+    ,
+    [
+      "Waimea",
+      "New Zealand",
+      "16%-19%",
+      "Bittering & Aroma",
+      "Citrus and pine",
+      "India Pale Ale, Pale Ale",
+      "Columbus"
+    ],
+    [
+      "Wakatu",
+      "New Zealand",
+      "6.5%-8.5%",
+      "Bittering & Aroma",
+      "Floral, lime aromas",
+      "Lager, Pale Ale, Belgian Ale",
+      ""
+    ],
+    [
+      "Warrior",
+      "US",
+      "14.5%-18%",
+      "Bittering",
+      "Aromas of citrus and spice",
+      "India Pale Ale, American Ales",
+      "Nugget, Columbus"
+    ],
+    [
+      "Willlamette",
+      "US",
+      "5.5%",
+      "Aroma",
+      "a mild, pleasant, slightly spicy aroma. Modest bittering value and the joyous harmony of flowers, fruit, earth and spice.",
+      "Pale ale, ESB, bitter, English-style ale, porter, stout",
+      ""
+    ],
+    [
+      "Whitbread Golding",
+      "UK",
+      "5%-7.5%",
+      "Bittering & Aroma",
+      "Pleasant, fruity, European style aroma",
+      "Ale, Pale Ale, Bitter",
+      "Fuggle, East Kent Golding"
     ]
   ]
 }
