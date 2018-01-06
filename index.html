@@ -16,20 +16,32 @@
 	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 	<script type="text/javascript" language="javascript">
 		$(document).ready(function() {
-
 			$('#example').DataTable( {
 				"ajax": 'ajax/data/hopsdata.json',
 				"pageLength": 50
 			} );
-			var table = $('#example').DataTable();
+			var table = $('#example').DataTable(),
+				compareOn = false,
+    			$compareBtn = $('.btn-compare');
+			$compareBtn.prop('disabled', true);
 			$('#example tbody').on( 'click', 'tr', function () {
         		$(this).toggleClass('selected');
+				$compareBtn.prop('disabled', false);
     		} );
 
-			$('#btn-compare').click(function () {
+			$('#btn-compare').click(function () {				
 				table.rows().every( function ( rowIdx, tableLoop, rowLoop ) {
-					table.row(':not(.selected)').remove().draw(false);
+					table.row(':not(.selected)').remove().draw(false);						
 				} );
+				if (compareOn){
+					$compareBtn.text($compareBtn.data('textOff'))
+        			.prop('disabled', false);
+					table.ajax.reload();
+				}else{
+					$compareBtn.text($compareBtn.data('textOn'))
+        			.prop('disabled', false);
+				}
+				compareOn = !compareOn;
 			});
 
 		} );
