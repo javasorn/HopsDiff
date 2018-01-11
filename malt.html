@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <!-- Easy Hops information Comparison -->
+
+    <title>Easy Malt Comparison</title>
+
+    <meta name="author" content="javasorn" />
+    <meta name="description" content="Hops Comparison,Hops list, Hops database, Homebrew, beer home brew" />
+
+    <!-- you should always add your stylesheet (css) in the head tag so that it starts loading before the page html is being displayed -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" type="text/css" />
+
+    <script type="text/javascript" language="javascript" src="//code.jquery.com/jquery-1.12.4.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function () {
+            $('#example').DataTable({
+                "ajax": 'ajax/data/maltdata.json',
+                "pageLength": 50
+            });
+            var table = $('#example').DataTable(),
+                compareOn = false,
+                $compareBtn = $('.btn-compare');
+            $compareBtn.prop('disabled', true);
+            $('#example tbody').on('click', 'tr', function () {
+                $(this).toggleClass('selected');
+                $compareBtn.prop('disabled', false);
+            });
+
+            $('#btn-compare').click(function () {
+                table.rows().every(function (rowIdx, tableLoop, rowLoop) {
+                    table.row(':not(.selected)').remove().draw(false);
+                });
+                if (compareOn) {
+                    $compareBtn.text($compareBtn.data('textOff'))
+                        .prop('disabled', false);
+                    table.ajax.reload();
+                } else {
+                    $compareBtn.text($compareBtn.data('textOn'))
+                        .prop('disabled', false);
+                }
+                compareOn = !compareOn;
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <!-- webpage content goes here in the body -->
+
+    <div id="page">
+        <div id="logo">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <h1>
+                                <a href="malt.html" id="logoLink">Easy Malt Comparison</a>
+                            </h1>
+                        </td>
+                        <td>
+                            <h3>&nbsp;&nbsp;&nbsp;And&nbsp;
+                                <a href="index.html" id="logoLink">Easy Hops Comparison</a>
+                            </h3>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="logo">
+            Please select and click Compare Selected
+            <button style="height:50px;width:300px" id="btn-compare" class="btn btn-compare btn-primary" data-text-on="End Compare" data-text-off="Compare Selected">Compare Selected</button>
+        </div>
+        <div id="content">
+            <table id="example" class="display" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Origin</th>
+                        <th>SRM</th>
+                        <th>EBC</th>
+                        <th>Characteristics</th>
+                        <th>Used for</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Name</th>
+                        <th>Origin</th>
+                        <th>SRM</th>
+                        <th>EBC</th>
+                        <th>Characteristics</th>
+                        <th>Used for</th>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div id="footer">
+            <p>
+                Webpage made by
+                <a href="https://github.com/javasorn/" target="_blank">[javasorn]</a>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>

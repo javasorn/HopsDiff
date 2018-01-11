@@ -1,0 +1,60 @@
+{
+  "data": [
+    [
+      "CHÂTEAU PILSEN 2RS",
+      "Belgian",
+      "1.5-1.8",
+      "3.0-3.5",
+      "The lightest in colour, this malt is well-modified and is perfectly suited for single-step infusion or for decoction mashing. Our Château Pilsen malt carries a strong, sweet malt flavour and has a sufficient enzymatic power to be used as base malt.",
+      "All beer types. Can be used up to 100 % for pale beers (Pilsner, Lager) or as part of the mix for the other beers."
+    ],
+    [
+      "CHÂTEAU PALE ALE",
+      "Belgian",
+      "3.556-5.08",
+      "7.0-10.0",
+      "Usually used as a base malt or in combination with Pilsen 2RS malt to impart a richer malt flavour and additional colour. Being deeper in colour, this malt can add a golden hue to the wort. It is used with strong yeasts to produce amber and bitter beers. Château Pale Ale malt is kilned longer and is usually better modified, providing a more pronounced flavour than Pilsen 2RS. The enzymatic activity of Château Pale Ale malt is sufficient when used with large proportion of non-enzymatic specialty malts.",
+      "Pale ale styles and bitter beers, most traditional English beer styles. Up to 80% of the mix."
+    ],
+    [
+      "CHÂTEAU WHEAT BLANC",
+      "Belgian",
+      "1.778-2.794",
+      "3.5-5.5",
+      "Enhances the peculiar taste of wheat beers. Château Wheat Blanc malt is essential in making wheat beers but is also used in barley malt-based beers (3–5%) thanks to its protein level that gives the beer a fuller mouthfeel and enhanced head stability. Wheat has no outer husk and therefore has fewer tannins than barley. Wheat malt is much stickier than barley malt due to the higher protein content and may cause lautering problems if not given a \"Protein Rest\" during the mash.",
+      "Wheat beers, white, light beers, beers with low or no alcohol. Recommended max. proportion: up to 35% of the mix"
+    ],
+    [
+      "CHÂTEAU MELANO",
+      "Belgian",
+      "40.64",
+      "80",
+      "Very aromatic, with intense malty flavour. Gives fullness and roundness to the beer colour, improves flavour stability and promotes red colour in your beer. Gives beer fuller body. This specialty variety has been described as “turbo Munich”.",
+      "Amber and dark beers, Scottish type and red coloured beers like Scottish ales, amber ales, red ales, and Irish ales.Up to 20% of the mix."
+    ],
+    [
+      "CHÂTEAU BISCUIT",
+      "Belgian",
+      "25.4",
+      "50",
+      "malt produces a very pronounced \"toasty\" finish in the beer. Imparts a warm bread and biscuit-like aroma and flavour. Promotes a light to medium warm brown colour of the mash. This malt is used to improve the roasted flavour and aroma that characterize ales and lagers lending the subtle properties of black and chocolate malts. No enzymes. Must be mashed with malts having a surplus of diastatic power.",
+      "All special beers and as well for English ales, brown ales and porters. Up to 25% of the mix."
+    ],
+    [
+      "CHÂTEAU CRYSTAL",
+      "Belgian",
+      "76.2",
+      "150",
+      "This caramel-copper coloured malt provides a rich malt flavour and aroma to amber and dark lager beers. Compared to other traditional coloured malts, Château Crystal® has an even stronger diastatic power and imparts a smoother bitterness.",
+      "Aromatic and coloured beers. Perfect for any beer in which high profile malt is required. Excellent choice for Belgian ales and German bock beer styles. Up to 20% of the mix."
+    ],
+    [
+      "NAME",
+      "Belgian",
+      "SRM",
+      "EBC",
+      "Characteristics",
+      "Usage"
+    ]
+  ]
+}
