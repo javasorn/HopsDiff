@@ -85,7 +85,7 @@
       "Belgian",
       "457.2",
       "900",
-      "Château Chocolat malt is a highly roasted malt with a deep brown colour. This is where its name comes from. Château Chocolat malt is used to adjust the colour of beer and imparts a nutty, toasted flavour. Château Chocolat malt shares many of the characteristics of Black Malt but provides a less bitter flavour than Black malt and is lighter than Black, because it is roasted for a slightly shorter period of time and the end temperatures are not so high.",
+      "Malt is a highly roasted malt with a deep brown colour. This is where its name comes from. Château Chocolat malt is used to adjust the colour of beer and imparts a nutty, toasted flavour. Château Chocolat malt shares many of the characteristics of Black Malt but provides a less bitter flavour than Black malt and is lighter than Black, because it is roasted for a slightly shorter period of time and the end temperatures are not so high.",
       "Brown, strong, darker and black beers, such as porters, stouts and brown ales. Up to 7% of the mix."
     ],
     [
@@ -93,7 +93,7 @@
       "Belgian",
       "22.86",
       "45",
-      "Château Abbey® malt is a more toasted form of pale malt. Gives a strong taste of cooked bread, nuts and fruit. Château Abbey® malt has a bitter flavour which mellows on ageing, and can be quite intensely flavoured. Château Abbey® malt is typically used as a small proportion of the grist in the production of beers requiring some substantial depth of colour.",
+      "Malt is a more toasted form of pale malt. Gives a strong taste of cooked bread, nuts and fruit. Château Abbey® malt has a bitter flavour which mellows on ageing, and can be quite intensely flavoured. Château Abbey® malt is typically used as a small proportion of the grist in the production of beers requiring some substantial depth of colour.",
       "Pale ale beers, Abbey beers,brown porter and special beers, in a diverse range of British beers.Up to 25% of the mix."
     ],
     [
@@ -101,7 +101,7 @@
       "Belgian",
       "60.96",
       "120",
-      "Château Cara Gold® malt imparts a strong caramel-sweet aroma and unique toffee-like and brown sugar flavour, adding a rich amber colour to beer. A distinguishing characteristic of all caramel malts is glassiness. This glassy endosperm creates the desirable non-fermentable components that give true caramel malt the ability to contribute mouthfeel, head, head retention, and extended beer stability.",
+      "Malt imparts a strong caramel-sweet aroma and unique toffee-like and brown sugar flavour, adding a rich amber colour to beer. A distinguishing characteristic of all caramel malts is glassiness. This glassy endosperm creates the desirable non-fermentable components that give true caramel malt the ability to contribute mouthfeel, head, head retention, and extended beer stability.",
       "Brown and dark beers. Up to 20% of the mix."
     ],
     [
@@ -117,9 +117,26 @@
       "Belgian",
       "4.064",
       "8",
-      "Château Cara Clair is a type of Belgian caramel malt. Intensifies the beer’s body and its smoothness, promotes head formation and retention. This malt also called Dextrin malt and is the most common body and foam enhancing natural agent that enhance head retention primarily thanks to their dextrines and other complex proteins. Creates soft biscuit notes in the beer aroma.",
+      "Cara Clair is a type of Belgian caramel malt. Intensifies the beer’s body and its smoothness, promotes head formation and retention. This malt also called Dextrin malt and is the most common body and foam enhancing natural agent that enhance head retention primarily thanks to their dextrines and other complex proteins. Creates soft biscuit notes in the beer aroma.",
       "Pilsner Lager, alcohol-reduced beer, light beer, Bock beer. Up to 30% of the mix."
-    ],[
+    ],
+    [
+      "CHÂTEAU CARA RUBY",
+      "Belgian",
+      "25.4",
+      "50",
+      "Malt imparts a rich caramel-sweet aroma and a toffee-like flavour, adding light amber to reddish colour to beer. A distinguishing characteristic of all caramel malts is glassiness. This glassy endosperm creates the desirable non-fermentable components that give true caramel malt the ability to contribute mouthfeel, head, head retention, and extended beer stability.",
+      "Brown Ales, Brune des Flandres, Bock, Scottish Ales. Up to 25% of the mix."
+    ],
+    [
+      "CHÂTEAU AROME",
+      "Belgian",
+      "50.8",
+      "100",
+      "Malt provides a rich malty aroma and flavour to amber and dark lager beers. Compared to other traditional coloured malts, Château Arôme has a higher diastatic power and imparts a smoother bitterness.",
+      "Special very aromatic beers. Up to 20% of the mix."
+    ],
+    [
       "NAME",
       "Belgian",
       "SRM",
